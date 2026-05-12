@@ -9,10 +9,10 @@
 [![Kotlin](https://img.shields.io/badge/LANG-Kotlin-ff006e?style=for-the-badge&labelColor=111111)]()
 [![Chaquopy](https://img.shields.io/badge/PYTHON-Chaquopy-7c3aed?style=for-the-badge&labelColor=111111)]()
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/Anon4You/HBCToolApp/releases">
-  <img src="https://img.shields.io/badge/⬇️_Download_Now-00ff9d?style=for-the-badge&labelColor=111111&logo=github&logoColor=00ff9d" alt="Download" width="280"/>
+  <img src="https://img.shields.io/badge/⬇️_Download_Now-00ff9d?style=for-the-badge&labelColor=111111&logo=github&logoColor=00ff9d" alt="Download" width="200"/>
 </a>
 
 <br/>
