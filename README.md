@@ -6,8 +6,8 @@
 
 ## Download
 
-[!NOTE]
-Download the latest version directly from GitHub Releases:  
+> [!NOTE]
+> Download the latest version directly from GitHub Releases:  
 **[⬇️ Get HBCToolApp](https://github.com/Anon4You/HBCToolApp/releases)**
 
 ---
@@ -25,9 +25,10 @@ Download the latest version directly from GitHub Releases:
 
 ## Requirements
 
-[!NOTE]
-- **Android 8.0+** (API 24 or higher)
-- **64-bit ARM device** (arm64-v8a) — Python 3.13 does not support 32-bit ARM
+> [!NOTE]
+> Built with Termux
+> - **Android 8.0+** (API 24 or higher)
+> - **64-bit ARM device** (arm64-v8a) — Python 3.13 does not support 32-bit ARM
 
 ---
 
@@ -53,6 +54,6 @@ Download the latest version directly from GitHub Releases:
 
 ---
 
-[!NOTE]
+> [!NOTE]
 **Credits:** Original [HBC-Tool](https://github.com/Kirlif/HBC-Tool) by Kirlif • Python integration via [Chaquopy](https://chaquo.com/chaquopy/) • Built with Kotlin & ❤️  
 **License:** [MIT](LICENSE)
