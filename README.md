@@ -35,8 +35,8 @@ Download the latest version directly from GitHub Releases:
 
 <table>
   <tr>
-    <td><img src="img/screenshot1.png" alt="Screenshot 1" width="300"/></td>
-    <td><img src="img/screenshot2.png" alt="Screenshot 2" width="300"/></td>
+    <td><img src="img/screenshot1.jpg" alt="Screenshot 1" width="300"/></td>
+    <td><img src="img/screenshot2.jpg" alt="Screenshot 2" width="300"/></td>
   </tr>
 </table>
 
