@@ -33,10 +33,7 @@
 Convert `.bundle` files into readable `.hasm` assembly + JSON metadata with a single tap.
 
 ### 🔧 Assemble
-Rebuild working `.bundle` binaries from `.hasm` and JSON sources — fully on-device.
-
-    </td>
-    <td width="50%" valign="top">
+Rebuild working `.bundle` binaries from `.hasm` and JSON sources — fully on-devicee
 
 ### 📦 Import / Export
 Seamlessly handle disassembly folders via ZIP archives. Pull in, push out, zero friction.
@@ -44,21 +41,12 @@ Seamlessly handle disassembly folders via ZIP archives. Pull in, push out, zero 
 ### 🧹 Clean Environment
 One-tap wipe of all internal `input/` and `output/` temporary files.
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
 ### 📋 Live Logging
 Real-time timestamped console output with one-tap copy-to-clipboard.
-
-    </td>
-    <td width="50%" valign="top">
 
 ### 🎨 Modern UI
 Edge-to-edge design with dynamic dark/light theming. Feels native, looks sharp.
 
-    </td>
   </tr>
 </table>
 
