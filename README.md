@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=180&section=header&text=HBCToolApp&fontSize=90&fontColor=00ff9d&fontStyle=bold&animation=fadeIn&fontAlignY=35&desc=Hermes%20Bytecode%20on%20Android&descSize=16&descColor=cbd5e1" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=180&section=header&text=HBCToolApp&fontSize=90&fontColor=00ff9d&fontStyle=bold&animation=fadeIn&fontAlignY=20&desc=Hermes%20Bytecode%20on%20Android&descSize=30&descColor=cbd5e1" width="100%" />
 
 [![Latest Release](https://img.shields.io/github/v/release/Anon4You/HBCToolApp?style=for-the-badge&label=RELEASE&color=00ff9d&labelColor=111111)](https://github.com/Anon4You/HBCToolApp/releases)
 [![License: MIT](https://img.shields.io/badge/LICENSE-MIT-00ff9d?style=for-the-badge&labelColor=111111)](LICENSE)
